@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Feel free to explore my repositories. I hope you find something useful!
+
 <!--
 **keevan/keevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
