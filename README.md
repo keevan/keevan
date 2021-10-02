@@ -7,7 +7,7 @@
 
 #### Beep boop how am I tracking?
 ![My github stats](https://github-readme-stats.vercel.app/api?username=keevan&count_private=true&show_icons=true&hide=stars&custom_title=My%20stats&theme=synthwave&border_radius=6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&border_radius=6&theme=synthwave&custom_title=My%20languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keevan&layout=compact&border_radius=6&theme=synthwave&custom_title=My%20languages)
 
 <!--
 
