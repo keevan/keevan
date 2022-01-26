@@ -1,15 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kevin Pham</h1>
+<h3 align="center">A passionate Software Engineer</h3>
+
 ### Feel free to explore my repositories. I hope you find something useful!
+
 - I love using vim ❤️
 - Atom's my current editor :atom: (shout out to t9md's Vim-Mode-Plus)
-- I enjoy coffee ☕
-- I love a good burger 🍔 
+- Contributing to open source is neat 😎
+- I love automating / optimising things and diving into new technologies.
 
-#### Beep boop how am I tracking?
+#### 🤖 Beep boop - How am I tracking?
 ![My github stats](https://github-readme-stats.vercel.app/api?username=keevan&count_private=true&show_icons=true&hide=stars&custom_title=My%20stats&theme=synthwave&border_radius=6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keevan&layout=compact&border_radius=6&theme=synthwave&custom_title=My%20languages)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keevan&layout=compact&border_radius=6&theme=synthwave&custom_title=My%20languages)
 
 TODO: put more useful repos at the top
 
