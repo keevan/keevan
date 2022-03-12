@@ -37,6 +37,7 @@
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
+    "@dschau/create-gatsby-blog-post": "^1.1.0",
     "@types/node": "^17.0.21",
     "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.13",
