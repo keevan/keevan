@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://keevan.github.io`,
     author: {
       name: `Kevin Pham`,
-      summary: `who lives and works in Melbourne building useful things.`
+      summary: `who is based in Melbourne, Australia and enjoys building useful things.`
     },
     social: {
       twitter: `KeevanPham`,

@@ -83,8 +83,17 @@ body {
   color: var(--color-text);
 }
 
-footer {
+.global-wrapper > footer {
   padding: var(--spacing-6) var(--spacing-0);
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-heading);
+  line-height: 32px;
+}
+
+footer .socials {
+    display: flex;
+    gap: 1em;
 }
 
 hr {
