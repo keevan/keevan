@@ -59,6 +59,12 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-transformer-gitinfo`,
+      options: {
+        include: /\.md$/i // Only .md files
+      }
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -78,7 +84,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images-zoom`,
             options: {
-              background: 'rgba(255, 255, 255, 0.7)'
+              background: "rgba(255, 255, 255, 0.7)"
             }
           },
           {
