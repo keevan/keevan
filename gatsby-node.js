@@ -105,6 +105,13 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
     type Fields {
       slug: String
+      readingTime: ReadingTime
+    }
+    type ReadingTime {
+      text: String
+      minutes: Int
+      time: Int
+      words: Int
     }
   `)
 }

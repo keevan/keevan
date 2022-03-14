@@ -1,7 +1,7 @@
 /** @type {import('gatsby').GatsbyConfig} */
 module.exports = {
   siteMetadata: {
-    title: `Kevin Pham (keevan)`,
+    title: `Kevin Pham`,
     description: `A personal website`,
     siteUrl: `https://keevan.github.io`,
     author: {
@@ -10,6 +10,7 @@ module.exports = {
     },
     social: {
       twitter: `KeevanPham`,
+      github: `keevan`,
     },
   },
   plugins: [
@@ -30,6 +31,7 @@ module.exports = {
       }
     },
     "gatsby-plugin-mdx",
+    'gatsby-remark-reading-time',
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
@@ -60,6 +62,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-reading-time`,
           // `gatsby-remark-embedder`,
           {
             resolve: `gatsby-remark-images`,
