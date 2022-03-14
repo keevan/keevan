@@ -3,7 +3,7 @@ path: "/putting-it-all-together"
 date: "2022-03-12T13:53:15.251Z"
 title: "Putting the blog together"
 description: "Diving head first into the world of blogging"
-tags: ['first-blog-entry']
+tags: ['blog', 'gatsby', 'github-actions']
 ---
 
 I enjoy reading. And as much as I wanted to write something, I never got around to it. With that said, this first post will dive straight into the thick of it.
@@ -25,6 +25,8 @@ For the reasons above, I chose to host the content and open source the code on G
 I've already added a couple of bells and whistles using Gatsby, mainly adding the reading time to all blog entries so the reader knows how long each article will take to read, and so I know if I need to simplify and shorten it. Also, premature support for MDX, which will see more usage down the line when I add more technical posts (+1 for interactivity).
 
 Whilst I could grab off-the-shelf software or services to do that which _has already been done before™️_, I want to learn all the bits that connect it all together - and other developers would probably agree.
+
+I wish I had started with the blog starter instead of the gatsby starter - which would have saved me a bit of time - but found it interesting to add the required bits manually anyways.
 
 1. Github as the place to host the code - at least initially.
 2. Gatsby as the framework that powers it - it has a powerful plugin system, has site performance in mind with regular updates.
