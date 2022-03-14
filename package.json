@@ -35,6 +35,7 @@
     "gatsby-remark-copy-linked-files": "^5.9.0",
     "gatsby-remark-figure-caption": "^2.0.0",
     "gatsby-remark-images": "^6.9.1",
+    "gatsby-remark-images-zoom": "^1.1.0",
     "gatsby-remark-prismjs": "^6.9.0",
     "gatsby-remark-reading-time": "^1.1.0",
     "gatsby-remark-responsive-iframe": "^5.9.0",

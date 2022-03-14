@@ -43,6 +43,6 @@ My brain-dump for my ideal process:
 
 ### Conclusion
 
-I foresee a bumpy road with a lot of research and development, but I will document the journey bring to light the pain points experienced.
+I foresee a bumpy road with a lot of research and development, but I will document the journey bring to light the pain points experienced. I feel happy with what I've managed to string together thus far.
 
 What do you think? Have you travelled down this road before? How did you approach this problem? I guess by the time I've written this I haven't added comment support yet, but perhaps later on I would have.

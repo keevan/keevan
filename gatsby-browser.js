@@ -1,6 +1,5 @@
 // custom typefaces
-// import "typeface-montserrat"
-import "@fontsource/inter"
+import "@fontsource/inter/variable.css"
 import "@fontsource/merriweather"
 // normalize CSS across browsers
 import "./src/css/normalize.css"
