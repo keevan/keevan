@@ -331,3 +331,11 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+figcaption {
+    text-align: center;
+    color: rgb(117, 117, 117);
+    font-family: var(--font-heading);
+    padding-top: 5px;
+    font-size: var(--fontSize-0);
+}

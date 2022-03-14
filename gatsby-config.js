@@ -6,12 +6,12 @@ module.exports = {
     siteUrl: `https://keevan.github.io`,
     author: {
       name: `Kevin Pham`,
-      summary: `who lives and works in Melbourne building useful things.`,
+      summary: `who lives and works in Melbourne building useful things.`
     },
     social: {
       twitter: `KeevanPham`,
-      github: `keevan`,
-    },
+      github: `keevan`
+    }
   },
   plugins: [
     "gatsby-plugin-styled-components",
@@ -31,7 +31,7 @@ module.exports = {
       }
     },
     "gatsby-plugin-mdx",
-    'gatsby-remark-reading-time',
+    "gatsby-remark-reading-time",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
@@ -55,31 +55,35 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/blog`,
-        name: 'blog',
-      },
+        name: "blog"
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           `gatsby-remark-reading-time`,
+          {
+            resolve: `gatsby-remark-figure-caption`,
+            options: { figureClassName: "md-figure" }
+          },
           // `gatsby-remark-embedder`,
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1200,
-            },
+              maxWidth: 1200
+            }
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
+              wrapperStyle: `margin-bottom: 1.0725rem`
+            }
           },
-          'gatsby-remark-copy-linked-files',
-          'gatsby-remark-smartypants',
-        ],
-      },
-    },
+          "gatsby-remark-copy-linked-files",
+          "gatsby-remark-smartypants"
+        ]
+      }
+    }
   ]
 }

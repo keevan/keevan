@@ -1,7 +1,7 @@
 ---
 path: "/putting-it-all-together"
 date: "2022-03-12T13:53:15.251Z"
-title: "Putting it all together"
+title: "Putting the blog together"
 description: "Diving head first into the world of blogging"
 tags: ['first-blog-entry']
 ---
@@ -30,7 +30,7 @@ Whilst I could grab off-the-shelf software or services to do that which _has alr
 2. Gatsby as the framework that powers it - it has a powerful plugin system, has site performance in mind with regular updates.
 3. Atom as my daily editor - I use it for coding, so naturally I'll use it for managing content.
 
-![atom](atom.png)
+![Atom, showing this entry in progress](atom.png)
 
 ### Workflow
 
