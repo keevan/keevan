@@ -68,6 +68,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-autolink-headers`,
           `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-figure-caption`,
