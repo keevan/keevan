@@ -40,13 +40,12 @@ const BlogIndex = ({ data, location }) => {
                 itemType="http://schema.org/Article"
               >
                 <header>
+                  <span className="font-heading text-light fontSize-0">{post.frontmatter.date}</span>
                   <h2>
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <span className="font-heading">{post.frontmatter.date}</span>
-                  {' - '}
                   <span
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,

@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <span>© {new Date().getFullYear()} Kevin Pham</span>
       <span class="socials">
-        <a href="https://github.com/keevan" title="View me on GitHub">
+        <a href="https://github.com/keevan" title="View me on GitHub" rel="me">
           {" "}
           <StaticImage
             layout="fixed"
