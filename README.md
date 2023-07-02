@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 - I love using vim ❤️
-- Atom's my current editor :atom: (shout out to t9md's Vim-Mode-Plus)
-- Contributing to open source is neat 😎
-- I love automating / optimising things and diving into new technologies.
+- Neovim is my current editor
+- Atom's is my previous editor :atom: (shout out to t9md's Vim-Mode-Plus)
+- Contributing to open source is awesome 😎
+- I love automating, tinkering, tooling and optimising my workflow & diving into new technologies.
 
 
 
