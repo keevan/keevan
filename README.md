@@ -9,12 +9,13 @@
 
 
 
-
+<!--
 <h4 align="center">🤖 Beep boop - How am I tracking?</h4>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keevan&count_private=true&show_icons=true&hide=stars&custom_title=My%20stats&theme=synthwave&border_radius=6" alt="My github stats" /> 
 </p>
 <p align="center">Feel free to explore my repositories. I hope you find something useful!</p>
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keevan&layout=compact&border_radius=6&theme=synthwave&custom_title=My%20languages)
 
